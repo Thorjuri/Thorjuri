@@ -1,7 +1,7 @@
 <div>
   <h2> Juri, The Backend Engineer 💻 </h2>
-  <h5> Domain : eKYC, KYB and ID Verification 👤 </h5>
-  <h5> AI-based identity authentication 🏆 </h5>
+  <h3> Domain : eKYC, KYB and ID Verification 👤 </h3>
+  <h4> AI-based identity authentication 🏆 </h4>
 </div>
 <div>
   <h4> Stacks.. </h4>
