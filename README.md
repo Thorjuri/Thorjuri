@@ -1,23 +1,29 @@
 <div>
-  <h2>✨✨✨✨✨💻 쇠질하는 개발자 🏋‍✨✨✨✨✨</h2>
-  <h5>🌱 I’m currently learning ...</h5>
-  <h5>🏛 I’m majored in Sports Medicine, Sports Science </h5>
+  <h2> Juri, The Backend Engineer 💻 </h2>
+  <h5> Domain : eKYC, KYB and ID Verification 👤 </h5>
+  <h5> AI-based identity authentication 🏆 </h5>
 </div>
 <div>
   <h4> Stacks.. </h4>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/AWS:DynamoDb-191970?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-778899?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-006400?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-1E90FF?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/AWS:Lambda-FF8C00?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/AWS:SQS-FFFF00?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/AWS:EKS-B22222?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/AWS:ECS-9400D3?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
+  
+<!--
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
-
+-->
 <!--
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
